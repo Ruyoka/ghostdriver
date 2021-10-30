@@ -1,0 +1,7 @@
+composer require pgrimaud/instagram-user-feed
+composer config platform-check false
+
+
+
+
+
